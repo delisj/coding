@@ -10,4 +10,3 @@ data = r.json()
 # print("icon_url", data["icon_url"])
 
 print(data['value'])
-print(data['value'])
